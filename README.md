@@ -1,18 +1,93 @@
-# 💫 About Me:
-Hi, I’m Taskeen Mustafa 👋<br><br>I am an AI, Python, and MERN Developer with strong foundations in Data Structures, Object-Oriented Programming, and Artificial Intelligence. I enjoy building real-world, scalable applications and continuously exploring new technologies.<br><br>I am currently pursuing a BS in Computer Science (2022–2026) at Sukkur IBA University. I have experience working with React.js, Node.js, Express.js, and MongoDB to develop full-stack applications, including a real-time chat app and a complete role-based school portal system. I also work with Python for machine learning projects, including a Skin Disease Detection system using classical ML and image processing techniques, and a Brain Tumor Detection system for my Final Year Project using deep learning and computer vision techniques. Additionally, I have built a Shop Management Desktop Application using Python and Tkinter.<br><br>My interests include Artificial Intelligence, real-time systems, backend development, and clean software architecture. I am always eager to learn, improve my technical skills, and build impactful solutions that solve real problems.
+# 👋 Hi, I'm Taskeen Mustafa
 
+<!-- 🔥 Typing Animation -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+Python+%7C+MERN+Developer;Building+Scalable+Applications;Machine+Learning+Enthusiast;Always+Learning+New+Tech+🚀" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/taskeen-mustafa-nizamani-a26b8b2a5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taskeen627@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=plastic&logo=SemanticUIReact&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=plastic&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=taskeen-mustafa786&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=taskeen-mustafa786&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taskeen-mustafa786&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🚀 About Me
+I am an AI, Python, and MERN Stack Developer with strong foundations in Data Structures, OOP, and Artificial Intelligence.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🎓 BS Computer Science (2022–2026) — Sukkur IBA University  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💡 Passionate about building scalable systems and solving real-world problems.
+
+---
+
+## 🧠 Tech Stack Animation
+
+<!-- 💻 Tech Stack Icons Animated -->
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,c,cpp,tailwind,bootstrap,docker,git,github,linux,figma&perline=9" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| 💡 Project | 📝 Description |
+|-----------|----------------|
+| 💬 Real-Time Chat App | MERN + Socket.IO real-time messaging system |
+| 🏫 School Portal | Role-based system (Admin, Teacher, Student) |
+| 🧠 Skin Disease Detection | Classical ML + image processing |
+| 🧬 Brain Tumor Detection | Deep learning (FYP) |
+| 🛒 Shop Management System | Python Tkinter desktop app |
+
+---
+
+## 📊 GitHub Stats (Animated)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=taskeen-mustafa786&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taskeen-mustafa786&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=taskeen-mustafa786&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Contribution Graph Animation
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=taskeen-mustafa786&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/taskeen-mustafa786/taskeen-mustafa786/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+<a href="mailto:taskeen627@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/taskeen-mustafa-nizamani-a26b8b2a5">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/taskeen-mustafa786">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💡 Quote
+<p align="center">
+🧠 "Learning is my superpower. Let's build something impactful!"
+</p>
+
+<!-- 👀 Visitor Counter -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=taskeen-mustafa786&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
