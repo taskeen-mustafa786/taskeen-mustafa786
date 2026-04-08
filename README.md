@@ -23,7 +23,7 @@
 
 ## 🔥 Current Work
 
-- 🧠 Brain Tumor Detection (Deep Learning + CV)
+- 🧠 Brain Tumor Detection (Deep Learning + CV + FastAPI + HTML/CSS/JS)
 - 💬 Real-Time Chat App (MERN + Socket.io)
 - 🏫 Role-Based School Portal System
 - 🧴 Skin Disease Detection (Classical ML + Image Features)
