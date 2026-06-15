@@ -9,12 +9,10 @@
 
 ## 🚀 About Me
 
-AI & Full Stack Developer focused on building intelligent, scalable, and production-oriented systems.
+AI & Full Stack Developer focused on building intelligent, scalable, and production-oriented systems by combining Machine Learning, Deep Learning, and Full Stack Engineering.
 
-I specialize in combining **Machine Learning, Deep Learning, and Full Stack Development** to create real-world applications.
-
-- 🎓 BS Computer Science — :contentReference[oaicite:0]{index=0} (2022–2026)
-- ⚙️ MERN Stack & Backend Systems (FastAPI / Node.js)
+- 🎓 BS Computer Science — Sukkur IBA University, Sukkur, Sindh, Pakistan (2022–2026)
+- ⚙️ MERN Stack & Backend Development (FastAPI / Node.js)
 - 🤖 Machine Learning, Deep Learning & Computer Vision
 - 🧠 LLMs, RAG Pipelines & AI Chatbots
 - 🚀 Focus: System Design + Applied AI
@@ -23,39 +21,39 @@ I specialize in combining **Machine Learning, Deep Learning, and Full Stack Deve
 
 ## 🧠 What I'm Working On
 
-- 🧬 **NeuraLink AI** — CNN-based Brain Tumor Detection System (FastAPI + CV + DL)
-- 💬 **Real-Time Chat App** — MERN + Socket.io (WhatsApp-style messaging system)
-- 🏫 **School Management System** — Role-based admin/teacher/student platform
-- 🧴 **Skin Disease Classification** — Classical ML + feature engineering
-- 📚 **RAG Chatbot System** — Document-based contextual AI assistant
+- 🧬 NeuraLink AI — Brain Tumor Detection using CNN + FastAPI
+- 💬 Real-Time Chat App — MERN + Socket.io (WhatsApp-like system)
+- 🏫 School Management System — Role-based academic platform
+- 🧴 Skin Disease Classification — Classical ML + Feature Engineering
+- 📚 RAG Chatbot — Document-based AI assistant using LLMs
 
 ---
 
 ## 💼 Experience
 
 ### AI/ML Intern  
-:contentReference[oaicite:1]{index=1}  
-**Dec 2025 – Feb 2026**
+DevelopersHub Corporation  
+Dec 2025 – Feb 2026
 
 - Built ML/DL pipelines including CNN, ANN, and Transfer Learning models  
-- Performed EDA, preprocessing, and feature engineering for datasets  
-- Developed and deployed Streamlit-based AI applications  
-- Worked on NLP-based chatbot systems using transformer architectures  
-- End-to-end model training, evaluation, and deployment workflows  
+- Performed data preprocessing, EDA, and feature engineering  
+- Developed Streamlit-based AI applications for real-time inference  
+- Built NLP chatbot systems using transformer-based architectures  
+- End-to-end model training, evaluation, and deployment  
 
 **Tech Stack:** Python, TensorFlow, Scikit-learn, OpenCV, NLP, LangChain, Streamlit
 
 ---
 
 ### Full Stack Development Intern  
-DevelopersHub Corporation
-**May 2026 – Present**
+DevelopersHub Corporation  
+May 2026 – Present
 
-- Building Alibaba-inspired e-commerce platform using React.js  
-- Implementing authentication, cart, orders, and product systems  
-- Designing scalable frontend architecture with reusable components  
-- REST API integration with backend services  
-- Version control using Git/GitHub workflows  
+- Developing Alibaba-inspired e-commerce platform using React.js  
+- Building authentication, cart, orders, and product management system  
+- Designing reusable and scalable frontend architecture  
+- Integrating REST APIs with backend services  
+- Using Git/GitHub for version control and collaboration  
 
 **Tech Stack:** React.js, Express.js, MongoDB, FastAPI, TailwindCSS
 
@@ -82,51 +80,51 @@ Git • GitHub • Docker • Firebase • Postman • VS Code • Linux • Azu
 
 ## 📌 Featured Projects
 
-### 🧠 NeuraLink AI (Brain Tumor Detection)
-- CNN model + EfficientNetB0 comparative analysis  
+### 🧠 NeuraLink AI
+- CNN + EfficientNetB0 model comparison  
 - MRI preprocessing, augmentation, and classification  
 - FastAPI backend deployment  
 - Firebase authentication + Cloudinary storage  
-- PDF report generation + email feedback system  
+- PDF report generation + Email feedback system  
 
 ---
 
 ### 🧴 Skin Disease Detection
 - Classical ML pipeline using image feature extraction  
 - Models: SVM, Random Forest, Naive Bayes, Decision Trees  
-- Histogram, LBP, Haralick feature engineering  
-- Comparative performance analysis  
+- Histogram, LBP, Haralick features  
+- Performance comparison across models  
 
 ---
 
 ### 🤖 Context-Aware RAG Chatbot
 - Retrieval-Augmented Generation system  
-- FAISS vector search + embeddings  
+- FAISS vector database for semantic search  
 - LangChain orchestration pipeline  
 - Conversational memory support  
 
 ---
 
 ### 🛒 MERN ToDo App
-- JWT authentication & protected routes  
-- CRUD task system with filtering  
-- Responsive React UI  
-- MongoDB backend integration  
+- JWT authentication and protected routes  
+- Full CRUD task system  
+- Task filtering and status tracking  
+- Responsive React UI with MongoDB backend  
 
 ---
 
 ### 🧾 MS Shop Management System
 - Tkinter-based desktop application  
-- Secure login system (PIN-based access)  
+- Secure PIN login system  
 - SQLite database integration  
-- Reporting dashboard with analytics  
+- Reporting dashboard system  
 
 ---
 
 ### 🏫 School Management System
-- Java Swing + AWT GUI application  
+- Java Swing + AWT GUI system  
 - Attendance, marks, timetable management  
-- Role-based system (teachers & admins)  
+- Role-based access (teachers & admins)  
 - MySQL database integration  
 
 ---
