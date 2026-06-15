@@ -48,7 +48,7 @@ I specialize in combining **Machine Learning, Deep Learning, and Full Stack Deve
 ---
 
 ### Full Stack Development Intern  
-:contentReference[oaicite:2]{index=2}  
+DevelopersHub Corporation
 **May 2026 – Present**
 
 - Building Alibaba-inspired e-commerce platform using React.js  
