@@ -1,32 +1,146 @@
-<!-- Animated Header -->
-<h1 align="center">
-  Hi 👋, I'm Taskeen Mustafa
-</h1>
+<!-- HERO HEADER -->
+<h1 align="center">Hi 👋, I'm Taskeen Mustafa</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Engineer+%7C+MERN+Developer;Full+Stack+Problem+Solver;Machine+Learning+Enthusiast;Building+Scalable+Systems" />
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Engineer+%7C+Full+Stack+Developer;MERN+Stack+Builder;Machine+Learning+%26+Computer+Vision;RAG+%26+LLM+Explorer" />
+</p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-💫 Passionate **AI & Full Stack Developer** with strong foundations in  
-**Data Structures, OOP, and Artificial Intelligence**
+AI & Full Stack Developer focused on building intelligent, scalable, and production-oriented systems.
 
-- 🎓 BS Computer Science (2022–2026) — *Sukkur IBA University*
-- ⚙️ Building scalable applications using **MERN Stack**
-- 🤖 Working on **Machine Learning & Computer Vision Projects**
-- 🚀 Focused on **real-world problem solving & system design**
+I specialize in combining **Machine Learning, Deep Learning, and Full Stack Development** to create real-world applications.
+
+- 🎓 BS Computer Science — :contentReference[oaicite:0]{index=0} (2022–2026)
+- ⚙️ MERN Stack & Backend Systems (FastAPI / Node.js)
+- 🤖 Machine Learning, Deep Learning & Computer Vision
+- 🧠 LLMs, RAG Pipelines & AI Chatbots
+- 🚀 Focus: System Design + Applied AI
 
 ---
 
-## 🔥 Current Work
+## 🧠 What I'm Working On
 
-- 🧠 Brain Tumor Detection (Deep Learning + CV + FastAPI + HTML/CSS/JS)
-- 💬 Real-Time Chat App (MERN + Socket.io)
-- 🏫 Role-Based School Portal System
-- 🧴 Skin Disease Detection (Classical ML + Image Features)
+- 🧬 **NeuraLink AI** — CNN-based Brain Tumor Detection System (FastAPI + CV + DL)
+- 💬 **Real-Time Chat App** — MERN + Socket.io (WhatsApp-style messaging system)
+- 🏫 **School Management System** — Role-based admin/teacher/student platform
+- 🧴 **Skin Disease Classification** — Classical ML + feature engineering
+- 📚 **RAG Chatbot System** — Document-based contextual AI assistant
+
+---
+
+## 💼 Experience
+
+### AI/ML Intern  
+:contentReference[oaicite:1]{index=1}  
+**Dec 2025 – Feb 2026**
+
+- Built ML/DL pipelines including CNN, ANN, and Transfer Learning models  
+- Performed EDA, preprocessing, and feature engineering for datasets  
+- Developed and deployed Streamlit-based AI applications  
+- Worked on NLP-based chatbot systems using transformer architectures  
+- End-to-end model training, evaluation, and deployment workflows  
+
+**Tech Stack:** Python, TensorFlow, Scikit-learn, OpenCV, NLP, LangChain, Streamlit
+
+---
+
+### Full Stack Development Intern  
+:contentReference[oaicite:2]{index=2}  
+**May 2026 – Present**
+
+- Building Alibaba-inspired e-commerce platform using React.js  
+- Implementing authentication, cart, orders, and product systems  
+- Designing scalable frontend architecture with reusable components  
+- REST API integration with backend services  
+- Version control using Git/GitHub workflows  
+
+**Tech Stack:** React.js, Express.js, MongoDB, FastAPI, TailwindCSS
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+Python • JavaScript • Java • C++ • C • Kotlin • Dart
+
+### 🌐 Full Stack Development
+React.js • Node.js • Express.js • MongoDB • MySQL • REST APIs • JWT • TailwindCSS
+
+### 🤖 AI / ML / Data Science
+TensorFlow • Keras • Scikit-learn • OpenCV • Pandas • NumPy • NLP • RAG • LangChain • FAISS
+
+### 📱 Mobile Development
+Flutter • Android (Kotlin, Jetpack Compose) • RoomDB • MVVM
+
+### ⚙️ Tools & DevOps
+Git • GitHub • Docker • Firebase • Postman • VS Code • Linux • Azure (Basics)
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 NeuraLink AI (Brain Tumor Detection)
+- CNN model + EfficientNetB0 comparative analysis  
+- MRI preprocessing, augmentation, and classification  
+- FastAPI backend deployment  
+- Firebase authentication + Cloudinary storage  
+- PDF report generation + email feedback system  
+
+---
+
+### 🧴 Skin Disease Detection
+- Classical ML pipeline using image feature extraction  
+- Models: SVM, Random Forest, Naive Bayes, Decision Trees  
+- Histogram, LBP, Haralick feature engineering  
+- Comparative performance analysis  
+
+---
+
+### 🤖 Context-Aware RAG Chatbot
+- Retrieval-Augmented Generation system  
+- FAISS vector search + embeddings  
+- LangChain orchestration pipeline  
+- Conversational memory support  
+
+---
+
+### 🛒 MERN ToDo App
+- JWT authentication & protected routes  
+- CRUD task system with filtering  
+- Responsive React UI  
+- MongoDB backend integration  
+
+---
+
+### 🧾 MS Shop Management System
+- Tkinter-based desktop application  
+- Secure login system (PIN-based access)  
+- SQLite database integration  
+- Reporting dashboard with analytics  
+
+---
+
+### 🏫 School Management System
+- Java Swing + AWT GUI application  
+- Attendance, marks, timetable management  
+- Role-based system (teachers & admins)  
+- MySQL database integration  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taskeen-mustafa786&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taskeen-mustafa786&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taskeen-mustafa786&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -43,72 +157,14 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧭 Philosophy
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🌐 Web Development
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express.js-404D59?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb)
-
-### 🤖 AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow)
-![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv)
-
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma)
+> “Build intelligent systems that solve real problems, scale efficiently, and remain maintainable.”
 
 ---
 
-## 📊 GitHub Analytics
+## ⚡ Fun Element
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taskeen-mustafa786&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taskeen-mustafa786&theme=tokyonight&hide_border=true"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="180"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taskeen-mustafa786&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## ⚡ Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=taskeen-mustafa786&theme=tokyo-night&hide_border=true"/>
-
----
-
-## ✨ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🎯 Philosophy
-
-> “Build systems that solve real problems, scale efficiently, and remain maintainable.”
-
----
-
-## 🧩 Fun Touch
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
-</p>
-
----
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=100&section=footer"/>
